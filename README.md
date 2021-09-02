@@ -1,10 +1,10 @@
-## Oi, eu sou o Goku! Brincadeirinha eu sou o Nícolas haha
+# Oi, eu sou o Goku! Brincadeirinha eu sou o Nícolas haha
 
-# Atualmente eu sou:
+## Atualmente eu sou:
 - Estudante de Ciência da Computação na UFPR
 - Dev Mobile tentando aprender React Native
 
-# Linguagens, frameworks e metodologias de interesse
+## Linguagens, frameworks e metodologias de interesse
 
 - C
 - JavaScript
@@ -12,7 +12,7 @@
 - Ruby (on Rails)
 - Scrum
 
-# Redes sociais
+## Redes sociais
 
 <a href="https://gitlab.com/rizzardi" target="_blank">
 - GitLab
